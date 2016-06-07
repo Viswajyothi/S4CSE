@@ -1,0 +1,75 @@
+#m1
+1. Enumerate the properties of  the signals. Explain any two.
+1. Write short notes on Quantisation.
+6. Define and explain CTFS .
+6. List the different types of signals and explain its properties.
+11. (i) State and explain sampling theorem.
+  (ii) Prove the properties of  CTFS.
+
+12. Differentiate continuous time signals from discrete time signals with examples.
+  Explain the difference .
+
+11. (a) Explain sampling theorem with necessary diagrams.
+                          Or
+(b) Determine the Fourier transform of the signal.
+
+#m2
+2. Define and explain Noise. List the types of noise .
+2. Describe different communication channels.
+7. Differentiate  Twisted pair from coaxial cables. Explain .
+7. Explain signal propagation delay and attenuation .
+
+13. Define and explain typical parameters of communication systems.
+              Or
+14.State and explain Shannon Hartley theorem. Derive an expression for Channel
+  capacity of a Noisy channel.
+
+12. (a) Draw and explain the Architecture of a Typical communication system. And
+explain the different types of noise.
+                          Or                             
+(b) Explain in detail different types of communication channels.
+
+#m3
+3. What is the difference between PPM and PDM ? Explain in detail.
+3. Explain about Sample problems based on different modulation methods.
+8. What is OOK ? Bring out its mathematical representation .
+8. Explain pulse width modulation.
+15.Explain AM,PM and FM in detail with neat diagrams. Bring out their mathematical
+  representations.
+             Or
+16. Compare and contrast the parameters of different modulation formats. Explain the
+   comparison in detail.
+
+13. (a) Explain any three types of Pulse modulation techniques.
+                          Or
+(b) Explain the following types of modulation schemes (PSK,DPSK)
+
+#m4
+4. What is the principle of WDM ? Mention the types of WDM.
+4. Compare Datagram’s and virtual circuits.
+9. Explain the principles of Half and Full duplex transmissions with neat diagrams.
+9. Describe in detail Wavelength division multiplexing.
+17. Explain the principles of TDM and FDM in detail with neat diagrams .
+              Or
+18.Explain the basic concept of SONET with neat diagrams.
+
+14. (a) Explain various switching methods.
+                          Or
+(b) Explain with block diagram Time Division Multiplexing (TDM) ( Transmitter and
+Receiver section ).
+
+#m5
+5. Explain the properties of hamming codes.
+5. What is Bar code?
+10. Give an account on “Baudot code” .
+10. Explain convolution coding.
+19. Explain the properties and advantages of Linear block codes. Drive its code vector.
+           Or
+20. Write technical notes on:
+  (i) EBCDIC
+  (ii) Parity coding
+  (iii) Syndrome calculator .
+15. (a) Write the following error correction and detection code with example:
+Line coding schemes, block coding
+                              Or
+(b)Write short notes on ASCII, EBCDIC, Bar coding and Baudot coding
